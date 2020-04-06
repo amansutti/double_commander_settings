@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/ui/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/</Item>
+      <Item>/home/alessandro/exelio/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/am/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/am/Qt/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/am/Qt/Widgets/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/am/Stl/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/src/</Item>
+      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/firmware/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/res/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/res/list/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/build/debug/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/build/</Item>
+      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/zip/</Item>
+      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/uploaded/</Item>
+      <Item>/home/alessandro/</Item>
+      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/log/</Item>
+      <Item>/home/alessandro/.config/Exelio Srl/</Item>
+      <Item>/usr/lib/doublecmd/</Item>
+      <Item>/usr/lib/</Item>
+      <Item>/usr/</Item>
+      <Item>/usr/bin/</Item>
+      <Item>/</Item>
+      <Item>/home/</Item>
+      <Item>/home/alessandro/QtProjects/</Item>
+      <Item>/home/alessandro/QtProjects/untitled1/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/Diff/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/Out/</Item>
+      <Item>/home/alessandro/Documenti/Scratch/</Item>
+      <Item>/home/alessandro/Documenti/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/</Item>
+      <Item>/home/alessandro/Scaricati/ddd/doublecmd/</Item>
+      <Item>/home/alessandro/Scaricati/ddd/</Item>
+      <Item>/home/alessandro/Scaricati/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/Out_ottimizzati/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/anchors/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/02.quadrilatero/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/tags_optimized/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/00.tags_terra_all/</Item>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/00.anchors/</Item>
+    </Navigation>
+    <CommandLine/>
+    <FileMask>
+      <Item>ancho</Item>
+      <Item>*.cfg</Item>
+      <Item>*.*</Item>
+    </FileMask>
+    <SearchText>
+      <Item>sty</Item>
+      <Item>deb</Item>
+      <Item>Config</Item>
+      <Item>anchor [</Item>
+      <Item>|</Item>
+      <Item>error</Item>
+      <Item>erro</Item>
+      <Item>tau</Item>
+      <Item>tofnr</Item>
+    </SearchText>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <SearchDirectories>
+      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324/Out/</Item>
+      <Item>/media/alessandro/f/@Progetti/2019.05.21 - Moret/</Item>
+      <Item>/media/alessandro/f/@Progetti/</Item>
+      <Item>/home/alessandro/exelio/</Item>
+    </SearchDirectories>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>
