@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<doublecmd DCVersion="0.9.6 beta">
+<doublecmd DCVersion="0.9.8 beta">
   <Hotkeys Version="46">
     <Form Name="Main">
       <Hotkey>
@@ -477,10 +477,24 @@
         <Shortcut>F3</Shortcut>
         <Command>cm_Edit</Command>
         <Control>Files Panel</Control>
+        <Control>Quick Search</Control>
       </Hotkey>
       <Hotkey>
         <Shortcut>F4</Shortcut>
         <Command>cm_Edit</Command>
+        <Control>Files Panel</Control>
+        <Control>Quick Search</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+C</Shortcut>
+        <Command>cm_CopyFullNamesToClip</Command>
+        <Control>Files Panel</Control>
+        <Control>Quick Search</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+1</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolItemID={272AC5F3-F229-408C-A40E-C5084AD668CD}</Param>
         <Control>Files Panel</Control>
       </Hotkey>
     </Form>

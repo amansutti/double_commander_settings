@@ -2,64 +2,116 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/ui/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/</Item>
-      <Item>/home/alessandro/exelio/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/am/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/am/Qt/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/am/Qt/Widgets/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/am/Stl/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/src/</Item>
-      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/firmware/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/res/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/res/list/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/build/debug/</Item>
-      <Item>/home/alessandro/exelio/gpbridge/build/</Item>
-      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/zip/</Item>
-      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/uploaded/</Item>
+      <Item>/home/alessandro/Scaricati/</Item>
       <Item>/home/alessandro/</Item>
-      <Item>/home/alessandro/.config/Exelio Srl/gpexe bridge/log/</Item>
-      <Item>/home/alessandro/.config/Exelio Srl/</Item>
-      <Item>/usr/lib/doublecmd/</Item>
-      <Item>/usr/lib/</Item>
-      <Item>/usr/</Item>
-      <Item>/usr/bin/</Item>
+      <Item>/media/alessandro/KINGSTON/</Item>
+      <Item>/media/alessandro/KINGSTON/Scaricati/</Item>
+      <Item>/media/alessandro/</Item>
+      <Item>/media/alessandro/Ubuntu 20.04 LTS amd64/</Item>
+      <Item>/home/alessandro/.ssh/</Item>
+      <Item>/home/alessandro/.config/</Item>
+      <Item>/home/alessandro/.config/doublecmd/</Item>
       <Item>/</Item>
       <Item>/home/</Item>
-      <Item>/home/alessandro/QtProjects/</Item>
-      <Item>/home/alessandro/QtProjects/untitled1/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/Diff/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/Out/</Item>
-      <Item>/home/alessandro/Documenti/Scratch/</Item>
-      <Item>/home/alessandro/Documenti/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/</Item>
-      <Item>/home/alessandro/Scaricati/ddd/doublecmd/</Item>
-      <Item>/home/alessandro/Scaricati/ddd/</Item>
-      <Item>/home/alessandro/Scaricati/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/Out_ottimizzati/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/anchors/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/02.quadrilatero/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/tags_optimized/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/00.tags_terra_all/</Item>
-      <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/00.anchors/</Item>
+      <Item>/home/alessandro/.gdb/</Item>
+      <Item>/home/alessandro/.gconf/</Item>
+      <Item>/home/alessandro/.fonts/</Item>
+      <Item>/home/alessandro/.designer/</Item>
+      <Item>/home/alessandro/.dbus/</Item>
+      <Item>/home/alessandro/.dbus/session-bus/</Item>
+      <Item>/media/alessandro/f/AAA_Ubuntu_Backup/</Item>
+      <Item>/media/alessandro/f/</Item>
+      <Item>/media/alessandro/f/@Progetti/</Item>
+      <Item>/home/alessandro/.CLion2019.2/</Item>
+      <Item>/home/alessandro/.CLion2019.2/config/</Item>
+      <Item>/home/alessandro/.cache/</Item>
+      <Item>/home/alessandro/.atom/</Item>
+      <Item>/home/alessandro/.anaconda_backup/</Item>
+      <Item>/home/alessandro/.anaconda_backup/2020-02-06T113808/</Item>
+      <Item>/home/alessandro/.anaconda_backup/2020-02-06T113808/.ipython/</Item>
+      <Item>/home/alessandro/.anaconda_backup/2020-02-06T113808/.conda/</Item>
+      <Item>/home/alessandro/exelio/</Item>
+      <Item>/home/alessandro/exelio/gpexe-station/</Item>
+      <Item>/home/alessandro/exelio/Z_venv/</Item>
+      <Item>/home/alessandro/exelio/_Exelio/</Item>
+      <Item>/home/alessandro/exelio/_Exelio/bin/</Item>
+      <Item>/home/alessandro/exelio/OLD_venv/</Item>
+      <Item>/home/alessandro/exelio/venv/</Item>
+      <Item>/home/alessandro/exelio/venv/bin/</Item>
+      <Item>/media/alessandro/f/@Progetti/2020.01.08 - Lps/2020.05.04 - test_paolini/</Item>
+      <Item>/media/alessandro/f/@Progetti/2020.01.08 - Lps/</Item>
+      <Item>/media/alessandro/f/.gdb/</Item>
+      <Item>/media/alessandro/f/.gdb/libcxx-pretty-printers/</Item>
+      <Item>/media/alessandro/c/</Item>
+      <Item>/media/alessandro/c/Users/</Item>
+      <Item>/media/alessandro/c/Users/utente/</Item>
+      <Item>/media/alessandro/c/Users/utente/AppData/</Item>
+      <Item>/media/alessandro/c/Users/utente/AppData/Roaming/</Item>
+      <Item>/media/alessandro/c/Users/utente/AppData/LocalLow/</Item>
+      <Item>/media/alessandro/c/Users/utente/AppData/Local/</Item>
+      <Item>/media/alessandro/c/Users/utente/Application Data/</Item>
+      <Item>/media/alessandro/c/Users/utente/Application Data/Microsoft/</Item>
+      <Item>/media/alessandro/c/Windows/</Item>
+      <Item>/media/</Item>
     </Navigation>
-    <CommandLine/>
+    <CommandLine>
+      <Item>gpexe_bridge</Item>
+      <Item>subl pippo.txt</Item>
+      <Item>pppo</Item>
+      <Item>gpexe\ bridge</Item>
+      <Item>ls</Item>
+    </CommandLine>
     <FileMask>
+      <Item>.gdb</Item>
+      <Item>gdb</Item>
+      <Item>log</Item>
+      <Item>utils</Item>
+      <Item>dist</Item>
+      <Item>libunistring</Item>
+      <Item>libstdc++</Item>
+      <Item>openssl</Item>
+      <Item>libusb</Item>
+      <Item>ssleay32.dll</Item>
+      <Item>libbz</Item>
+      <Item>libboost_filesystem</Item>
+      <Item>qt5-cross-mingw-w64</Item>
+      <Item>Qt5WidgetsConfig.cmake</Item>
+      <Item>FindQt5Widgets</Item>
+      <Item>ibstdc++-6.dll</Item>
+      <Item>quality_ext</Item>
+      <Item>*.ui</Item>
+      <Item>rf_features15</Item>
+      <Item>quality</Item>
+      <Item>quality_extended_example.csv</Item>
+      <Item>quality_extended_example.gpexe</Item>
+      <Item>quality_extended_example.*</Item>
+      <Item>quality_extended_example</Item>
+      <Item>track01</Item>
+      <Item>u-blox</Item>
       <Item>ancho</Item>
       <Item>*.cfg</Item>
       <Item>*.*</Item>
     </FileMask>
     <SearchText>
+      <Item>/usr/include/boost/asio/associated_executor.hpp:21</Item>
+      <Item>boost</Item>
+      <Item>Upload ok</Item>
+      <Item>nsis</Item>
+      <Item>eigen3</Item>
+      <Item>eigen</Item>
+      <Item>boo</Item>
+      <Item>eig</Item>
+      <Item>init</Item>
+      <Item>cfg</Item>
+      <Item>crc</Item>
+      <Item>DEBUG_ForceCrcError</Item>
+      <Item>+</Item>
+      <Item>float</Item>
+      <Item>Key</Item>
+      <Item>libusb_cancel_transfer</Item>
+      <Item>65.58</Item>
+      <Item>65.581</Item>
+      <Item>307</Item>
       <Item>sty</Item>
       <Item>deb</Item>
       <Item>Config</Item>
@@ -71,15 +123,34 @@
       <Item>tofnr</Item>
     </SearchText>
     <SearchTextPath/>
-    <ReplaceText/>
+    <ReplaceText>
+      <Item>libzip</Item>
+    </ReplaceText>
     <ReplaceTextPath/>
     <SearchDirectories>
+      <Item>/</Item>
+      <Item>/media/alessandro/c/</Item>
+      <Item>/home/alessandro/exelio/gpexe-station/build/debug/</Item>
+      <Item>/home/alessandro/exelio/libgpexe/</Item>
+      <Item>/home/alessandro/Documenti/Log/Z_Bridge/2020.04.20 - Muratore/LOG/</Item>
+      <Item>/home/alessandro/exelio/libgpexe/build/win64/</Item>
+      <Item>/home/alessandro/exelio/libgpexe/cmake/</Item>
+      <Item>/usr/x86_64-w64-mingw32/</Item>
+      <Item>/home/alessandro/exelio/gpbridge/</Item>
+      <Item>/home/alessandro/</Item>
+      <Item>/home/alessandro/Scaricati/libusb/</Item>
+      <Item>/home/alessandro/exelio/libgpexe/build/</Item>
+      <Item>/home/alessandro/exelio/libgpexe/test/</Item>
+      <Item>/media/alessandro/f/</Item>
       <Item>/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324/Out/</Item>
       <Item>/media/alessandro/f/@Progetti/2019.05.21 - Moret/</Item>
       <Item>/media/alessandro/f/@Progetti/</Item>
       <Item>/home/alessandro/exelio/</Item>
     </SearchDirectories>
     <SearchExcludeFiles/>
-    <SearchExcludeDirectories/>
+    <SearchExcludeDirectories>
+      <Item>media</Item>
+      <Item>/media</Item>
+    </SearchExcludeDirectories>
   </History>
 </doublecmd>

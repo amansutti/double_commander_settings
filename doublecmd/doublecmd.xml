@@ -4,9 +4,10 @@
     <MainToolbar>
       <Row>
         <Command>
-          <ID>{AF30BED1-8368-4815-88B1-AB3D8DBFEBB4}</ID>
+          <ID>{33AB86C5-E2B5-4368-A29D-B40D66A11E4A}</ID>
           <Icon>cm_refresh</Icon>
-          <Command>cm_Refresh</Command>
+          <Hint>Refresh</Hint>
+          <Command/>
         </Command>
         <Command>
           <ID>{E485DB38-C1A4-4127-8F73-C6ED97FFC8E9}</ID>
@@ -99,6 +100,7 @@
           <Icon>cm_copyfullnamestoclip</Icon>
           <Command>cm_CopyFullNamesToClip</Command>
         </Command>
+        <Separator/>
         <Program>
           <ID>{783CED03-73BF-4CD6-A2CB-1907E1DD2234}</ID>
           <Hint>----
@@ -107,13 +109,36 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
           <Command>gpformat</Command>
           <Params>-t %p &gt; %p.out.txt</Params>
         </Program>
+        <Program>
+          <ID>{162BDB06-2967-4AC3-9AAF-006740E2D628}</ID>
+          <Icon>/home/alessandro/exelio/gpbridge/res/bridge_icon.png.ico</Icon>
+          <Hint>----
+Command: gpexe_bridge</Hint>
+          <Command>gpexe_bridge</Command>
+        </Program>
+        <Program>
+          <ID>{4537D9A4-8931-4FBD-8BA2-2D42BB2406C3}</ID>
+          <Icon>/home/alessandro/.config/doublecmd/icons/logfile.png</Icon>
+          <Hint>----
+Command: LogAnalysis</Hint>
+          <Command>/home/alessandro/CLionProjects/LogAnalysis/cmake-build-debug/LogAnalysis</Command>
+          <Params>%p</Params>
+        </Program>
+        <Separator/>
+        <Program>
+          <ID>{272AC5F3-F229-408C-A40E-C5084AD668CD}</ID>
+          <Icon>/home/alessandro/.config/doublecmd/icons/Apps-Meld-icon.png</Icon>
+          <Hint>Compare files</Hint>
+          <Command>/usr/bin/meld </Command>
+          <Params>%ps %pt</Params>
+        </Program>
       </Row>
     </MainToolbar>
   </Toolbars>
   <MainWindow>
     <Position Save="True">
       <Maximized>True</Maximized>
-      <Splitter>50</Splitter>
+      <Splitter>49.9739175795514</Splitter>
     </Position>
   </MainWindow>
   <Configuration Save="True" SortOrder="1" TreeType="0">
@@ -163,7 +188,7 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
     <DateTimeFormat>dd/mm/yyyy hh:nn:ss</DateTimeFormat>
     <CutTextToColumnWidth>True</CutTextToColumnWidth>
     <ExtendCellWidth>False</ExtendCellWidth>
-    <ShowSystemFiles>False</ShowSystemFiles>
+    <ShowSystemFiles>True</ShowSystemFiles>
     <ListFilesInThread>True</ListFilesInThread>
     <LoadIconsSeparately>True</LoadIconsSeparately>
     <DelayLoadingTabs>True</DelayLoadingTabs>
@@ -178,8 +203,8 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
       <RunInTerminal>False</RunInTerminal>
       <KeepTerminalOpen>False</KeepTerminalOpen>
     </Viewer>
-    <Editor Enabled="False">
-      <Path/>
+    <Editor Enabled="True">
+      <Path>subl</Path>
       <Parameters/>
       <RunInTerminal>False</RunInTerminal>
       <KeepTerminalOpen>False</KeepTerminalOpen>
@@ -299,8 +324,8 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
     <MainMenu>True</MainMenu>
     <ButtonBar Enabled="True">
       <FlatIcons>True</FlatIcons>
-      <ButtonHeight>24</ButtonHeight>
-      <IconSize>16</IconSize>
+      <ButtonHeight>28</ButtonHeight>
+      <IconSize>24</IconSize>
       <ReportErrorWithCommands>False</ReportErrorWithCommands>
     </ButtonBar>
     <DriveBar1>True</DriveBar1>
@@ -331,7 +356,7 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
   <FilesViews>
     <Sorting>
       <CaseSensitivity>0</CaseSensitivity>
-      <NaturalSorting>False</NaturalSorting>
+      <NaturalSorting>True</NaturalSorting>
       <SortFolderMode>0</SortFolderMode>
       <NewFilesPosition>2</NewFilesPosition>
       <UpdatedFilesPosition>2</UpdatedFilesPosition>
@@ -427,56 +452,56 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Usb.svg">/home/alessandro/exelio/gpbridge/res/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="wconfigurationuser.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="res">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="list">/home/alessandro/exelio/gpbridge/res/</Path>
-                  <Path Filename="acc_sample_rates.txt">/home/alessandro/exelio/gpbridge/res/list/</Path>
-                  <Path Filename="list">/home/alessandro/exelio/gpbridge/res/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="ddeviceconfiguration.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="test">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="exelio">/home/alessandro/</Path>
-                  <Path Filename="gpbridge">/home/alessandro/exelio/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="login.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="src">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="FirmwareManager.cpp">/home/alessandro/exelio/gpbridge/src/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="wconfigurationuser.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="build">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="debug">/home/alessandro/exelio/gpbridge/build/</Path>
-                  <Path Filename="..">/home/alessandro/exelio/gpbridge/build/debug/</Path>
-                  <Path Filename="gpbridge">/home/alessandro/exelio/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="ddeviceconfiguration.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="src">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="changelogdialog.ui">/home/alessandro/exelio/gpbridge/src/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="wconfigurationuser.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="res">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="list">/home/alessandro/exelio/gpbridge/res/</Path>
-                  <Path Filename="magn_sample_rates_user.txt">/home/alessandro/exelio/gpbridge/res/list/</Path>
-                  <Path Filename="list">/home/alessandro/exelio/gpbridge/res/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="wconfigurationfull.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
-                  <Path Filename="src">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="settings.h">/home/alessandro/exelio/gpbridge/src/</Path>
-                  <Path Filename="am">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="Qt">/home/alessandro/exelio/gpbridge/am/</Path>
-                  <Path Filename="..">/home/alessandro/exelio/gpbridge/am/Qt/</Path>
-                  <Path Filename="Stl">/home/alessandro/exelio/gpbridge/am/</Path>
-                  <Path Filename="..">/home/alessandro/exelio/gpbridge/am/Stl/</Path>
-                  <Path Filename="Qt">/home/alessandro/exelio/gpbridge/am/</Path>
-                  <Path Filename="Widgets">/home/alessandro/exelio/gpbridge/am/Qt/</Path>
-                  <Path Filename="..">/home/alessandro/exelio/gpbridge/am/Qt/Widgets/</Path>
-                  <Path Filename="base_worker.hpp">/home/alessandro/exelio/gpbridge/am/Qt/</Path>
-                  <Path Filename="Qt">/home/alessandro/exelio/gpbridge/am/</Path>
-                  <Path Filename="am">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="gpbridge">/home/alessandro/exelio/</Path>
-                  <Path Filename="ui">/home/alessandro/exelio/gpbridge/</Path>
-                  <Path Filename="wconfigurationfull.ui">/home/alessandro/exelio/gpbridge/ui/</Path>
+                  <Path Filename=".anaconda_backup">/home/alessandro/</Path>
+                  <Path Filename="2020-02-06T113808">/home/alessandro/.anaconda_backup/</Path>
+                  <Path Filename=".conda">/home/alessandro/.anaconda_backup/2020-02-06T113808/</Path>
+                  <Path Filename="..">/home/alessandro/.anaconda_backup/2020-02-06T113808/.conda/</Path>
+                  <Path Filename=".ipython">/home/alessandro/.anaconda_backup/2020-02-06T113808/</Path>
+                  <Path Filename="..">/home/alessandro/.anaconda_backup/2020-02-06T113808/.ipython/</Path>
+                  <Path Filename=".ipython">/home/alessandro/.anaconda_backup/2020-02-06T113808/</Path>
+                  <Path Filename="2020-02-06T113808">/home/alessandro/.anaconda_backup/</Path>
+                  <Path Filename=".atom">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.atom/</Path>
+                  <Path Filename=".cache">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.cache/</Path>
+                  <Path Filename=".cache">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.cache/</Path>
+                  <Path Filename=".CLion2019.2">/home/alessandro/</Path>
+                  <Path Filename="config">/home/alessandro/.CLion2019.2/</Path>
+                  <Path Filename="..">/home/alessandro/.CLion2019.2/config/</Path>
+                  <Path Filename="config">/home/alessandro/.CLion2019.2/</Path>
+                  <Path Filename=".config">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.config/</Path>
+                  <Path Filename=".gconf">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.gconf/</Path>
+                  <Path Filename=".gdb">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.gdb/</Path>
+                  <Path Filename=".dbus">/home/alessandro/</Path>
+                  <Path Filename="session-bus">/home/alessandro/.dbus/</Path>
+                  <Path Filename="c025f8e80bdc4e5181d7dbf4405679e5-0">/home/alessandro/.dbus/session-bus/</Path>
+                  <Path Filename="session-bus">/home/alessandro/.dbus/</Path>
+                  <Path Filename=".designer">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.designer/</Path>
+                  <Path Filename=".fonts">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.fonts/</Path>
+                  <Path Filename=".gconf">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.gconf/</Path>
+                  <Path Filename=".gdb">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.gdb/</Path>
+                  <Path Filename="usb.txt">/home/alessandro/</Path>
+                  <Path Filename="alessandro">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename=".config">/home/alessandro/</Path>
+                  <Path Filename="doublecmd">/home/alessandro/.config/</Path>
+                  <Path Filename="..">/home/alessandro/.config/doublecmd/</Path>
+                  <Path Filename="..">/home/alessandro/.config/</Path>
+                  <Path Filename=".ssh">/home/alessandro/</Path>
+                  <Path Filename="id_rsa.pub">/home/alessandro/.ssh/</Path>
+                  <Path Filename="..">/media/alessandro/Ubuntu 20.04 LTS amd64/</Path>
+                  <Path Filename="KINGSTON">/media/alessandro/</Path>
+                  <Path Filename="Scaricati">/media/alessandro/KINGSTON/</Path>
+                  <Path Filename="test07.svg">/media/alessandro/KINGSTON/Scaricati/</Path>
+                  <Path Filename="..">/media/alessandro/KINGSTON/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -500,56 +525,56 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="test16.raw.Output.txt.Anchors">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/anchors/</Path>
-                  <Path Filename="anchors">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/</Path>
-                  <Path Filename="test17.raw.Output.txt.Anchors">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/anchors/</Path>
-                  <Path Filename="anchors">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/</Path>
-                  <Path Filename="..">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/anchors/</Path>
-                  <Path Filename="anchors">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/Out/</Path>
-                  <Path Filename="Out">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/</Path>
-                  <Path Filename="test20200324_Parte_I">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/</Path>
-                  <Path Filename="lps_test_20200324">/home/alessandro/Documenti/Progetti/2019.11 - LPS/</Path>
-                  <Path Filename="test20200324_Parte_II">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/</Path>
-                  <Path Filename="Out">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/</Path>
-                  <Path Filename="00.ErroreAnchor">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/</Path>
-                  <Path Filename="Out_ottimizzati">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/</Path>
-                  <Path Filename="test27.raw.Output.txt">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/Out_ottimizzati/</Path>
-                  <Path Filename="Out_ottimizzati">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/00.ErroreAnchor/</Path>
-                  <Path Filename="00.ErroreAnchor">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/Out/</Path>
-                  <Path Filename="Out">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_II/</Path>
-                  <Path Filename="test20200324_Parte_II">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/</Path>
-                  <Path Filename="lps_test_20200330_max">/home/alessandro/Documenti/Progetti/2019.11 - LPS/</Path>
-                  <Path Filename="session20200330101729">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/</Path>
-                  <Path Filename="anchor.conf">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/</Path>
-                  <Path Filename="session20200330101729">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/</Path>
-                  <Path Filename="lps_test_20200330_max">/home/alessandro/Documenti/Progetti/2019.11 - LPS/</Path>
-                  <Path Filename="session20200330101729">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/</Path>
-                  <Path Filename="..">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/session20200330101729/</Path>
-                  <Path Filename="session20200330101729">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200330_max/</Path>
-                  <Path Filename="lps_test_20200324">/home/alessandro/Documenti/Progetti/2019.11 - LPS/</Path>
-                  <Path Filename="test20200324_Parte_I">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/</Path>
-                  <Path Filename="anchor.conf">/home/alessandro/Documenti/Progetti/2019.11 - LPS/lps_test_20200324/test20200324_Parte_I/</Path>
-                  <Path Filename="ddeviceconfiguration.ui">/home/alessandro/QtProjects/untitled1/</Path>
-                  <Path Filename="untitled1">/home/alessandro/QtProjects/</Path>
-                  <Path Filename="QtProjects">/home/alessandro/</Path>
-                  <Path Filename="alessandro">/home/</Path>
-                  <Path Filename="usr">/</Path>
-                  <Path Filename="bin">/usr/</Path>
-                  <Path Filename="doxyindexer">/usr/bin/</Path>
-                  <Path Filename="lib">/usr/</Path>
-                  <Path Filename="doublecmd">/usr/lib/</Path>
-                  <Path Filename="..">/usr/lib/doublecmd/</Path>
-                  <Path Filename="log">/home/alessandro/.config/Exelio Srl/gpexe bridge/</Path>
-                  <Path Filename="LOG_20200331_165536.LOG">/home/alessandro/.config/Exelio Srl/gpexe bridge/log/</Path>
-                  <Path Filename="log">/home/alessandro/.config/Exelio Srl/gpexe bridge/</Path>
-                  <Path Filename="LOG_20200401_195330.LOG">/home/alessandro/.config/Exelio Srl/gpexe bridge/log/</Path>
-                  <Path Filename="uploaded">/home/alessandro/.config/Exelio Srl/gpexe bridge/</Path>
-                  <Path Filename="..">/home/alessandro/.config/Exelio Srl/gpexe bridge/uploaded/</Path>
-                  <Path Filename="zip">/home/alessandro/.config/Exelio Srl/gpexe bridge/</Path>
-                  <Path Filename="..">/home/alessandro/.config/Exelio Srl/gpexe bridge/zip/</Path>
-                  <Path Filename="firmware">/home/alessandro/.config/Exelio Srl/gpexe bridge/</Path>
-                  <Path Filename="GPEXE_L1_224.bin">/home/alessandro/.config/Exelio Srl/gpexe bridge/firmware/</Path>
-                  <Path Filename="..">/home/alessandro/.config/Exelio Srl/gpexe bridge/</Path>
+                  <Path Filename="utente">/media/alessandro/c/Users/</Path>
+                  <Path Filename="msys64">/media/alessandro/c/</Path>
+                  <Path Filename="home">/media/alessandro/c/msys64/</Path>
+                  <Path Filename="utente">/media/alessandro/c/msys64/home/</Path>
+                  <Path Filename="..">/media/alessandro/c/msys64/home/utente/</Path>
+                  <Path Filename="utente">/media/alessandro/c/msys64/home/</Path>
+                  <Path Filename="usr">/media/alessandro/c/msys64/</Path>
+                  <Path Filename="..">/media/alessandro/c/msys64/usr/</Path>
+                  <Path Filename="usr">/media/alessandro/c/msys64/</Path>
+                  <Path Filename="msys64">/media/alessandro/c/</Path>
+                  <Path Filename="c">/media/alessandro/</Path>
+                  <Path Filename="Intel">/media/alessandro/c/</Path>
+                  <Path Filename="c">/media/alessandro/</Path>
+                  <Path Filename="alessandro">/media/</Path>
+                  <Path Filename="media">/</Path>
+                  <Path Filename="Windows">/media/alessandro/c/</Path>
+                  <Path Filename="..">/media/alessandro/c/Windows/</Path>
+                  <Path Filename="Users">/media/alessandro/c/</Path>
+                  <Path Filename="utente">/media/alessandro/c/Users/</Path>
+                  <Path Filename="Application Data">/media/alessandro/c/Users/utente/</Path>
+                  <Path Filename="Microsoft">/media/alessandro/c/Users/utente/Application Data/</Path>
+                  <Path Filename="..">/media/alessandro/c/Users/utente/Application Data/Microsoft/</Path>
+                  <Path Filename="Microsoft">/media/alessandro/c/Users/utente/Application Data/</Path>
+                  <Path Filename="AppData">/media/alessandro/c/Users/utente/</Path>
+                  <Path Filename="Local">/media/alessandro/c/Users/utente/AppData/</Path>
+                  <Path Filename="..">/media/alessandro/c/Users/utente/AppData/Local/</Path>
+                  <Path Filename="LocalLow">/media/alessandro/c/Users/utente/AppData/</Path>
+                  <Path Filename="..">/media/alessandro/c/Users/utente/AppData/LocalLow/</Path>
+                  <Path Filename="Roaming">/media/alessandro/c/Users/utente/AppData/</Path>
+                  <Path Filename="..">/media/alessandro/c/Users/utente/AppData/Roaming/</Path>
+                  <Path Filename="Roaming">/media/alessandro/c/Users/utente/AppData/</Path>
+                  <Path Filename="AppData">/media/alessandro/c/Users/utente/</Path>
+                  <Path Filename="utente">/media/alessandro/c/Users/</Path>
+                  <Path Filename="Users">/media/alessandro/c/</Path>
+                  <Path Filename="Telegram Desktop">/home/alessandro/Scaricati/</Path>
+                  <Path Filename="Documenti">/media/alessandro/f/</Path>
+                  <Path Filename="2020.01.08 - Lps">/media/alessandro/f/@Progetti/</Path>
+                  <Path Filename="2020.05.04 - test_paolini">/media/alessandro/f/@Progetti/2020.01.08 - Lps/</Path>
+                  <Path Filename="anchor.conf">/media/alessandro/f/@Progetti/2020.01.08 - Lps/2020.05.04 - test_paolini/</Path>
+                  <Path Filename=".ssh">/home/alessandro/</Path>
+                  <Path Filename="id_rsa.pub">/home/alessandro/.ssh/</Path>
+                  <Path Filename=".atom">/home/alessandro/</Path>
+                  <Path Filename="..">/home/alessandro/.atom/</Path>
+                  <Path Filename="..">/media/alessandro/f/@Progetti/</Path>
+                  <Path Filename="@Progetti">/media/alessandro/f/</Path>
+                  <Path Filename="f">/media/alessandro/</Path>
+                  <Path Filename="AAA_Ubuntu_Backup">/media/alessandro/f/</Path>
+                  <Path Filename="rf_acc=90.9__num_est=100.txt">/media/alessandro/f/AAA_Ubuntu_Backup/</Path>
+                  <Path Filename="Scaricati">/home/alessandro/</Path>
+                  <Path Filename="gpbridge-7.0.3-WIN.zip">/home/alessandro/Scaricati/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -638,6 +663,7 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
     <HotDir Name="Progetti su F" Path="/media/alessandro/f/@Progetti"/>
     <HotDir Name="Scaricati" Path="/home/alessandro/Scaricati"/>
     <HotDir Name="Scratch" Path="/home/alessandro/Documenti/Scratch"/>
+    <HotDir Name="Z_SharedFolder" Path="/home/alessandro/VirtualBox VMs/Z_SharedFolder"/>
   </DirectoryHotList>
   <Viewer>
     <PreviewVisible>True</PreviewVisible>
@@ -789,7 +815,7 @@ Parameters: -t %p &gt; %p.out.txt</Hint>
         <Column>
           <Title>Name</Title>
           <FuncString>[DC().GETFILENAME{}] </FuncString>
-          <Width>305</Width>
+          <Width>416</Width>
           <Align>0</Align>
           <Font>
             <Name>JetBrains Mono</Name>
